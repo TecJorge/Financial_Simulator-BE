@@ -1,0 +1,5 @@
+
+{"nome":"Jorge Andre","numeroTelemovel":"935449744","email":"tec.jorge@outlook.com","modelo":"Toyota Supra","valor":24000.0,"financiamento":{"mensalidades":48,"tipoFinanciamento":"EXTERNO"},"prestacao":533}
+{"nome":"Jorge Andre","numeroTelemovel":"935449744","email":"tec.jorge@outlook.com","modelo":"Toyota Supra","valor":24000.0,"financiamento":{"mensalidades":60,"tipoFinanciamento":"EXTERNO"},"prestacao":426}
+{"nome":"Jorge Andre","numeroTelemovel":"935449744","email":"tec.jorge@outlook.com","modelo":"Toyota Supra","valor":24000.0,"financiamento":{"mensalidades":60,"tipoFinanciamento":"EXTERNO"},"prestacao":426}
+{"nome":"Jorge Sousa","numeroTelemovel":"935449744","email":"tec.jorge@outlook.com","modelo":"Toyota Supra","valor":24000.0,"financiamento":{"mensalidades":36,"tipoFinanciamento":"INTERNO"},"prestacao":693}
